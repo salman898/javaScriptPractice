@@ -19,7 +19,7 @@
 
 // Chapter # 4
 
-let Username, First_Name , lastName;
+// let Username, First_Name , lastName;
 
 // // legal variables
 
@@ -29,4 +29,8 @@ let Username, First_Name , lastName;
 
 // var first name, 88firstname,88_name; 
 
-<h1>Rules for naming JS variables</h1>
+document.write("<b>Rules for naming JS variables</b>");
+document.write("<br></br>");
+document.write("Variable names can only contain. Numbers. $ and $ For example  my_1stVariabl ",
+"<br>Variables must begin with a letter. $ or with number  For example $name, _name or name , name1",
+"<br> Variable names are case sensitive</br>", "Variable names should not be JS Keywords");
